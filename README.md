@@ -31,8 +31,8 @@
    In the case of phone numbers, the following should be used:
 
    ```
-   Destination Phone Number: +15558675310
-   From/Twilio Number: +15017122661
+   Destination Phone Number: +971509270504
+   From/Twilio Number:+923551209351
    ```
 
 1. **Snippet file names are important**. A snippet's file extension is the only
